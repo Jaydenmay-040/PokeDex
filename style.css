@@ -301,7 +301,175 @@ button {
   }
 
   .items {
-    margin-left: 45%;
+    margin-left: 23%;
+    width: 53%;
+    margin-top: 2.5%;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  body {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  button {
+    border-width: 8px;
+    margin: 5px;
+    width: 30%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+  }
+
+  .poke-img {
+    margin-left: 12%;
+    width: 81%;
+  }
+
+  .img {
+    width: 81%;
+  }
+
+  .name {
+    font-size: 20.5px;
+    margin-bottom: -9%;
+    margin-top: 4%;
+    margin-left: 5%;
+  }
+
+  .height {
+    font-size: 20.5px;
+    margin-bottom: -9%;
+    margin-left: 5%;
+  }
+
+  .weight {
+    font-size: 20.5px;
+    margin-bottom: -9%;
+    margin-left: 5%;
+  }
+
+  .abilities {
+    font-size: 20.5px;
+    margin-bottom: 2%;
+    margin-left: 5%;
+  }
+
+  .items {
+    margin-left: 23%;
+    width: 53%;
+    margin-top: 2.5%;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  body {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  button {
+    border-width: 8px;
+    margin: 5px;
+    width: 30%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+  }
+
+  .poke-img {
+    margin-left: 12%;
+    width: 81%;
+  }
+
+  .img {
+    width: 81%;
+  }
+
+  .name {
+    font-size: 20.5px;
+    margin-bottom: -9%;
+    margin-top: 4%;
+    margin-left: 5%;
+  }
+
+  .height {
+    font-size: 20.5px;
+    margin-bottom: -9%;
+    margin-left: 5%;
+  }
+
+  .weight {
+    font-size: 20.5px;
+    margin-bottom: -9%;
+    margin-left: 5%;
+  }
+
+  .abilities {
+    font-size: 20.5px;
+    margin-bottom: 2%;
+    margin-left: 5%;
+  }
+
+  .items {
+    margin-left: 23%;
+    width: 53%;
+    margin-top: 2.5%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  button {
+    border-width: 8px;
+    margin: 5px;
+    width: 23%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+  }
+
+  .poke-img {
+    margin-left: 12%;
+    width: 81%;
+  }
+
+  .img {
+    width: 81%;
+  }
+
+  .name {
+    font-size: 20.5px;
+    margin-bottom: -9%;
+    margin-top: 4%;
+    margin-left: 5%;
+  }
+
+  .height {
+    font-size: 20.5px;
+    margin-bottom: -9%;
+    margin-left: 5%;
+  }
+
+  .weight {
+    font-size: 20.5px;
+    margin-bottom: -9%;
+    margin-left: 5%;
+  }
+
+  .abilities {
+    font-size: 20.5px;
+    margin-bottom: 2%;
+    margin-left: 5%;
+  }
+
+  .items {
+    margin-left: 23%;
     width: 53%;
     margin-top: 2.5%;
   }
