@@ -92,6 +92,18 @@ button {
   margin-bottom: 1%;
 }
 
+@media screen and (max-width: 1024px) {
+  button {
+    width: 10%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  button {
+    width: 12%;
+  }
+}
+
 @media screen and (max-width: 600px) {
   body {
     background-size: cover;
@@ -430,7 +442,7 @@ button {
   }
 
   button {
-    border-width: 8px;
+    border-width: 6px;
     margin: 5px;
     width: 30%;
     padding-top: 0.5%;
