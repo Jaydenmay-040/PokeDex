@@ -5,7 +5,7 @@
 body {
   background-image: url(https://pbs.twimg.com/media/DVMT-6OXcAE2rZY.jpg);
   background-size: 100%;
-  /* background-size: cover; */
+  background-size: cover;
 }
 
 .img {
